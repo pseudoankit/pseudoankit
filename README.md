@@ -13,15 +13,15 @@
   <img align="left" alt="Ankit's Insta" width="25px" src="https://user-images.githubusercontent.com/54987308/164895698-d466b5fc-a58b-4f13-997c-695b6466d4e7.png" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lostankit7.lostankit7)
-[![GitHub followers](https://img.shields.io/github/followers/lostankit7.svg?style=social&label=Follow)](https://github.com/lostankit7?tab=followers)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lazycoder-21.lazycoder-21)
+[![GitHub followers](https://img.shields.io/github/followers/lazycoder-21.svg?style=social&label=Follow)](https://github.com/lazycoder-21?tab=followers)
 
 <img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
 
 - Android developer with 1+yrs of experince
-- 👨🏻‍💻 - Kotlin, Android, DS Algo
+- 👨🏻‍💻 - Kotlin, Android, DS Algo, Jetpack Compose
 - 📫 reach me at : lostankit7@gmail.com
 
 </br>
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lostankit7&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazycoder-21&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
