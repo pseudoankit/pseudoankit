@@ -1,27 +1,41 @@
-###  👋 
+<h1 align="center">Hi 👋, I'm Ankit</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazycoder-21&label=Profile%20views&color=0e75b6&style=flat" alt="lazycoder-21" /> </p>
 
-<a href="https://twitter.com/_lazycoder21">
-  <img align="left" alt="Ankit's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://www.linkedin.com/in/lazycoder21/">
-  <img align="left" alt="Ankit's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://lazycoder21.medium.com/">
-  <img align="left" alt="Ankit's Medium" width="25px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" />
-</a>
-<a href="https://www.instagram.com/lazycoder21/">
-  <img align="left" alt="Ankit's Insta" width="25px" src="https://user-images.githubusercontent.com/54987308/164895698-d466b5fc-a58b-4f13-997c-695b6466d4e7.png" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazycoder-21" alt="lazycoder-21" /></a> </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lazycoder-21.lazycoder-21)
-[![GitHub followers](https://img.shields.io/github/followers/lazycoder-21.svg?style=social&label=Follow)](https://github.com/lazycoder-21?tab=followers)
+<p align="left"> <a href="https://twitter.com/_lazycoder21" target="blank"><img src="https://img.shields.io/twitter/follow/_lazycoder21?logo=twitter&style=for-the-badge" alt="_lazycoder21" /></a> </p>
 
-<img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
+- 🔭 Currently working as **Android Developer at Tokopedia**
 
-- Android developer with 1+yrs of experince
-- 👨🏻‍💻 - Kotlin, Android, DS Algo, Jetpack Compose
-- 📫 reach me at : lostankit7@gmail.com
+- 🌱 I’m currently learning **android architecture, multi modular with dagger, Jetpack compose**
 
-</br>
+- 🤝 I’m looking for help with **dagger with multi modular app**
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazycoder-21&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+- 📝 I write articles on [lazycoder21.medium.com](lazycoder21.medium.com)
+
+- 📫 Reach out me at **lostankit7@gmail.com**
+
+- ⚡ Fun fact **m quite lazy👀**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lazycoder21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazycoder21" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15747933/lostankit7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15747933/lostankit7" height="30" width="40" /></a>
+<a href="https://instagram.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazycoder21" height="30" width="40" /></a>
+<a href="https://medium.com/@lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lazycoder21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazycoder21" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazycoder-21&show_icons=true&locale=en&layout=compact" alt="lazycoder-21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazycoder-21&show_icons=true&locale=en" alt="lazycoder-21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazycoder-21&" alt="lazycoder-21" /></p>
