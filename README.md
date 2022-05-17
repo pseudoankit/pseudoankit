@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **dagger with multi modular app**
 
-- 📝 I write articles on [lazycoder21.medium.com](lazycoder21.medium.com)
+- 📝 I write articles on [medium](https://medium.com/@lazycoder21)
 
 - 📫 Reach out me at **lostankit7@gmail.com**
 
-- ⚡ Fun fact **m quite lazy👀**
+- ⚡ Fun fact **too lazy to talk about it👀**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,6 +29,7 @@
 <a href="https://instagram.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazycoder21" height="30" width="40" /></a>
 <a href="https://medium.com/@lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lazycoder21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazycoder21" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/lazycoder21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/lazycoder21/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
