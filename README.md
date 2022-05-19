@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **android architecture, multi modular with dagger, Jetpack compose**
 
-- 🤝 I’m looking for help with **dagger with multi modular app**
+- 🤝 I’m looking for help in using **navigation component with multi modules**
 
 - 📝 I write articles on [medium](https://medium.com/@lazycoder21)
 
