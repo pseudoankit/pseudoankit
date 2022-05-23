@@ -7,19 +7,11 @@
 
 - 🔭 Currently working as **Android Developer at Tokopedia**
 
-- 🌱 I’m currently learning **android architecture, multi modular with dagger, Jetpack compose**
-
-- 🤝 I’m looking for help in using **navigation component with multi modules**
+- 🌱 I’m currently learning **android architectures, Jetpack Compose, building multi modular apps with dagger and Jetpack navigation**
 
 - 📝 I write articles on [medium](https://medium.com/@lazycoder21)
 
 - 📫 Reach out me at **lostankit7@gmail.com**
-
-- ⚡ Fun fact **too lazy to talk about it👀**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
