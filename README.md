@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [medium](https://medium.com/@lazycoder21)
 
-- 📫 Reach out me at **lostankit7@gmail.com**
+- 📫 Reach out me at [linkedIn](https://linkedin.com/in/lazycoder21)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
