@@ -31,4 +31,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazycoder-21&show_icons=true&locale=en" alt="lazycoder-21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazycoder-21&" alt="lazycoder-21" /></p>
+<h3 align="left">Medium Articles Highlight</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/0" alt="jetpack navigation"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/2" alt="publish lib jitpack"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/1" alt="compose and xml"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/4" alt="drag and drop"> 
+<!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/5" alt="sticky header"> -->
+
