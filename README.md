@@ -29,7 +29,7 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lazycoder-21&show_icons=true&locale=en&layout=compact" alt="lazycoder-21" />
-<img src="https://github-readme-stats.vercel.app/api?username=lazycoder-21&show_icons=true&locale=en" alt="lazycoder-21" />
+<img align = "right" src="https://github-readme-stats.vercel.app/api?username=lazycoder-21&show_icons=true&locale=en" alt="lazycoder-21" />
 </p>
 
 <h3 align="left">Medium Articles Highlight</h3>
