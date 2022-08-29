@@ -9,18 +9,18 @@
 
 - 🌱 I’m currently learning **android architectures, Jetpack Compose, building multi modular apps with dagger and Jetpack navigation**
 
-- 📝 I write articles on [medium](https://medium.com/@lazycoder21)
+- 📝 I write articles on [medium](https://medium.com/@pseudoankit)
 
-- 📫 Reach out me at [linkedIn](https://www.linkedin.com/in/lazycoder21/)
+- 📫 Reach out me at [linkedIn](https://www.linkedin.com/in/pseudoankit/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pseudoankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pseudoankit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lazycoder21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazycoder21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pseudoankit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pseudoankit" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15747933/pseudoankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15747933/pseudoankit" height="30" width="40" /></a>
 <a href="https://instagram.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazycoder21" height="30" width="40" /></a>
-<a href="https://medium.com/@lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lazycoder21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazycoder21" height="30" width="40" /></a>
+<a href="https://medium.com/@pseudoankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pseudoankit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pseudoankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pseudoankit" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/lazycoder21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/lazycoder21/" height="30" width="40" /></a>
 </p>
 
@@ -33,8 +33,8 @@
 </p>
 
 <h3 align="left">Medium Articles Highlight</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/0" alt="jetpack navigation"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/2" alt="publish lib jitpack"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/4" alt="drag and drop"> 
-<!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lazycoder21/5" alt="sticky header"> -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0" alt="jetpack navigation"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/2" alt="publish lib jitpack"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/4" alt="drag and drop"> 
+<!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/5" alt="sticky header"> -->
 
