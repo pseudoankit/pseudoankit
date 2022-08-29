@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pseudoankit" alt="pseudoankit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_lazycoder21" target="blank"><img src="https://img.shields.io/twitter/follow/_lazycoder21?logo=twitter&style=for-the-badge" alt="_lazycoder21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pseudoankit" target="blank"><img src="https://img.shields.io/twitter/follow/pseudoankit?logo=twitter&style=for-the-badge" alt="pseudoankit" /></a> </p>
 
 - 🔭 Currently working as **Android Developer at Tokopedia**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lazycoder21" height="30" width="40" /></a>
+<a href="https://twitter.com/pseudoankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pseudoankit" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lazycoder21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazycoder21" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15747933/lostankit7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15747933/lostankit7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15747933/pseudoankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15747933/pseudoankit" height="30" width="40" /></a>
 <a href="https://instagram.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazycoder21" height="30" width="40" /></a>
 <a href="https://medium.com/@lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lazycoder21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lazycoder21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazycoder21" height="30" width="40" /></a>
