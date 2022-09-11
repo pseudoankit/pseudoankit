@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/pseudoankit" target="blank"><img src="https://img.shields.io/twitter/follow/pseudoankit?logo=twitter&style=for-the-badge" alt="pseudoankit" /></a> </p>
 
-- 🔭 Currently working as **Android Developer at Tokopedia**
+- 🔭 Currently working as **Android Developer** at **Rapido**
 
-- 🌱 I’m currently learning **android architectures, Jetpack Compose, building multi modular apps with dagger and Jetpack navigation**
+- 🌱 I’m currently learning **Jetpack Compose, MVI, Koin, Desing Patterns**
 
 - 📝 I write articles on [medium](https://medium.com/@pseudoankit)
 
