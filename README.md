@@ -32,6 +32,10 @@
 <img width = "400" height="300" src="https://github-readme-stats.vercel.app/api?username=pseudoankit&show_icons=true&locale=en" alt="pseudoankit" />
 </p>
 
+<h3 align="left">Library Published</h3>
+[Rating Bar in Jetpack Compose](https://github.com/pseudoankit/RatingBarCompose)
+
+
 <h3 align="left">Medium Articles Highlight</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0" alt="jetpack navigation"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/2" alt="publish lib jitpack"> 
