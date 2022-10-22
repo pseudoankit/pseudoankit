@@ -33,8 +33,12 @@
 </p>
 
 <h3 align="left">Library Published</h3>
-[Rating Bar in Jetpack Compose](https://github.com/pseudoankit/RatingBarCompose)
-
+                
+- <a href="https://github.com/pseudoankit/RatingBarCompose">Rating Bar in Jetpack Compose</a>
+                                                         
+- <a href="https://github.com/pseudoankit/ComposeFontAwesomeLibrary">Font Awesome in Jetpack Compose</a>
+                                                                  
+- <a href="https://github.com/pseudoankit/FontAwesomeLibrary">Font Awesome in XML</a>
 
 <h3 align="left">Medium Articles Highlight</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0" alt="jetpack navigation"> 
