@@ -7,7 +7,7 @@
 
 - 🔭 Currently working as **Android Developer** at **Rapido**
 
-- 🌱 I’m currently learning **Jetpack Compose, MVI, State Machine, Koin and Design Patterns**
+- 🌱 I’m currently learning **Jetpack Compose Optimisation,Design Patterns**
 
 - 📝 I write articles on [medium](https://medium.com/@pseudoankit)
 
