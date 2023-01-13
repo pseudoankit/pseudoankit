@@ -31,6 +31,11 @@
 <img width = 350" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudoankit&show_icons=true&locale=en&layout=compact" alt="pseudoankit" />
 <img width = "400" height="300" src="https://github-readme-stats.vercel.app/api?username=pseudoankit&show_icons=true&locale=en" alt="pseudoankit" />
 </p>
+                                                                                                                                                 
+<h3 alight=left">Projects</h3>
+
+- Currently working on <a href="https://github.com/pseudoankit/Tasky">Tasky</a>, App which can set reminder and events, Create the repo to demonstrate usage of modern android development with multi module setup, reusable gradle plugins, design system, jetpack compose, mvi, clean architecutre etc..
+
 
 <h3 align="left">Library Published</h3>
                 
