@@ -41,8 +41,12 @@
 - <a href="https://github.com/pseudoankit/FontAwesomeLibrary">Font Awesome in XML</a>
 
 <h3 align="left">Medium Articles Highlight</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/0" alt="jetpack navigation"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/2" alt="publish lib jitpack"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/4" alt="drag and drop"> 
-<!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pseudoankit/5" alt="sticky header"> -->
+                
+- <a href="https://medium.com/@pseudoankit/track-compose-recomposition-1-8ce30e8f6847">Track Compose Recomposition Part-1<a/>
+                                                                                      
+- <a href="https://medium.com/@pseudoankit/publish-an-android-library-opensource-with-jitpack-91edf3228727">Publish an android library opensource with Jitpack<a/>
+                                                                                                           
+- <a href="https://medium.com/@pseudoankit/android-jetpack-navigation-in-multi-modular-apps-50b240a00dff">Android Jetpack Navigation in multi modular apps<a/>
+                                                                                                         
+- <a href="https://medium.com/@pseudoankit/recycler-view-with-sticky-headers-multiple-layout-kotlin-view-binding-4f0056805ae9">Recycler View With Sticky Headers & Multiple Layout (View Binding)<a/>
 
