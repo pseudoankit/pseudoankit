@@ -13,6 +13,8 @@
 
 - 📫 Reach out me at [linkedIn](https://www.linkedin.com/in/pseudoankit/)
 
+- Currently working on <a href="https://github.com/pseudoankit/Tasky">Tasky</a>, App to set reminder and events, Created the repo to demonstrate usage of modern android development with **multi module setup, reusable gradle plugins, design system, jetpack compose, mvi, clean architecutre** etc..
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pseudoankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pseudoankit" height="30" width="40" /></a>
@@ -32,9 +34,6 @@
 <img width = "400" height="300" src="https://github-readme-stats.vercel.app/api?username=pseudoankit&show_icons=true&locale=en" alt="pseudoankit" />
 </p>
                                                                                                                                                  
-<h3 alight=left">Projects</h3>
-
-- Currently working on <a href="https://github.com/pseudoankit/Tasky">Tasky</a>, App which can set reminder and events, Create the repo to demonstrate usage of modern android development with multi module setup, reusable gradle plugins, design system, jetpack compose, mvi, clean architecutre etc..
 
 
 <h3 align="left">Library Published</h3>
