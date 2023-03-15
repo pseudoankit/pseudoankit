@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/pseudoankit" target="blank"><img src="https://img.shields.io/twitter/follow/pseudoankit?logo=twitter&style=for-the-badge" alt="pseudoankit" /></a> </p>
 
-- 🔭 Currently working as **Android Developer** at **Rapido**
-
-- 🌱 I’m currently learning **Jetpack Compose Optimisation,Design Patterns**
+- 🌱 I’m currently learning **Jetpack Compose Optimization,Design Patterns, CI/CD**
 
 - 📝 I write articles on [medium](https://medium.com/@pseudoankit)
 
 - 📫 Reach out me at [linkedIn](https://www.linkedin.com/in/pseudoankit/)
 
-- Currently working on <a href="https://github.com/pseudoankit/Tasky">Tasky</a>, App to set reminder and events, Created the repo to demonstrate usage of modern android development with **multi module setup, reusable gradle plugins, design system, jetpack compose, mvi, clean architecutre** etc..
+- Currently working on <a href="https://github.com/pseudoankit/Tasky">Tasky</a>, App to set reminder and events, contains demonstration  of modern android development with **multi module setup, reusable gradle plugins, design system, jetpack compose, mvi, clean architecutre, CI/CD setup** and many more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,15 +26,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
-
-<p float="left">
-<img width = 350" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudoankit&show_icons=true&locale=en&layout=compact" alt="pseudoankit" />
-<img width = "400" height="300" src="https://github-readme-stats.vercel.app/api?username=pseudoankit&show_icons=true&locale=en" alt="pseudoankit" />
-</p>
-                                                                                                                                                 
+                                                                                                                                            
 
 
-<h3 align="left">Library Published</h3>
+<h3 align="left">Libraries Published</h3>
                 
 - <a href="https://github.com/pseudoankit/RatingBarCompose">Rating Bar in Jetpack Compose</a>
                                                          
@@ -44,7 +37,7 @@
                                                                   
 - <a href="https://github.com/pseudoankit/FontAwesomeLibrary">Font Awesome in XML</a>
 
-<h3 align="left">Medium Articles Highlight</h3>
+<h3 align="left">Medium Article Highlights</h3>
                 
 - <a href="https://medium.com/@pseudoankit/track-compose-recomposition-1-8ce30e8f6847">Track Compose Recomposition Part-1<a/>
                                                                                       
