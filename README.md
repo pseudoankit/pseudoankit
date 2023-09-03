@@ -19,15 +19,18 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white)
 
 
-<h3 align="left">Projects 👨‍💻</h3>
+<h3 align="left">Projects/Libraries 👨‍💻</h3>
 
 - <a href="https://github.com/pseudoankit/Tasky">Tasky</a> :- App to set reminder and events, contains demonstration  of modern android development with **multi module setup, reusable gradle plugins, design system, jetpack compose, mvi, clean architecutre, CI/CD setup, Notification** and many more.
                 
-- <a href="https://github.com/pseudoankit/RatingBarCompose">Rating Bar in Jetpack Compose</a>
+
+- <a href="https://github.com/pseudoankit/RatingBarCompose">A jetpack compose library to create rating bar </a>
                                                          
-- <a href="https://github.com/pseudoankit/ComposeFontAwesomeLibrary">Font Awesome in Jetpack Compose</a>
+- <a href="https://github.com/pseudoankit/ComposeFontAwesomeLibrary">A compose library to use fontawesome icons as simple text</a> 
                                                                   
-- <a href="https://github.com/pseudoankit/compose-swipe">A compose library to swipe views</a>
+- <a href="https://github.com/pseudoankit/compose-swipe">A compose library to create a horizontal draggable view</a> 
+
+- <a href="https://github.com/pseudoankit/vistablePatternRecyclerView">Demo to use visitable pattern with recycler view</a>
 
 <h3 align="left">Medium Article Highlights</h3>
                 
