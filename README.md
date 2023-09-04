@@ -43,6 +43,8 @@
                                                                                                          
 - <a href="https://medium.com/@pseudoankit/recycler-view-with-sticky-headers-multiple-layout-kotlin-view-binding-4f0056805ae9">Recycler View With Sticky Headers & Multiple Layout (View Binding)<a/>
 
+- <a href="https://medium.com/@pseudoankit/widgets-in-compose-3647b17c9b32">Create home screen widgets in compose<a/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudoankit&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=pseudoankit&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false)
