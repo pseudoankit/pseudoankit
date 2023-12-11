@@ -23,13 +23,13 @@
 
 - <a href="https://github.com/pseudoankit/Tasky">Tasky</a> :- App to set reminder and events, contains demonstration  of modern android development with **multi module setup, reusable gradle plugins, design system, jetpack compose, mvi, clean architecutre, CI/CD setup, Notification** and many more.
 
-- <a href="https://github.com/pseudoankit/coachmark">A jetpack compose library create beautiful coachmark to provide seamless onboarding experience to end users</a>
+- <a href="https://github.com/pseudoankit/coachmark">Compose Coachmark Library</a> :- A jetpack compose library to create seamless onboarding experience to end users
 
-- <a href="https://github.com/pseudoankit/RatingBarCompose">A jetpack compose library to create rating bar </a>
+- <a href="https://github.com/pseudoankit/RatingBarCompose">RatingBar Library</a> :- A jetpack compose library to create rating bar
                                                          
-- <a href="https://github.com/pseudoankit/ComposeFontAwesomeLibrary">A compose library to use fontawesome icons as simple text</a> 
+- <a href="https://github.com/pseudoankit/ComposeFontAwesomeLibrary">Compose Fontawesome Library</a> :- A compose library to use fontawesome icons as simple icon
                                                                   
-- <a href="https://github.com/pseudoankit/compose-swipe">A compose library to create a horizontal draggable view</a> 
+- <a href="https://github.com/pseudoankit/compose-swipe">Compose Swipe</a> :- A compose library to create a horizontal draggable view
 
 - <a href="https://github.com/pseudoankit/vistablePatternRecyclerView">Demo to use visitable pattern with recycler view</a>
 
