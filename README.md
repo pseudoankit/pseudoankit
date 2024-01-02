@@ -26,12 +26,6 @@
 - <a href="https://github.com/pseudoankit/coachmark">Compose Coachmark Library</a> :- A jetpack compose library to create seamless onboarding experience to end users
 
 - <a href="https://github.com/pseudoankit/RatingBarCompose">RatingBar Library</a> :- A jetpack compose library to create rating bar
-                                                         
-- <a href="https://github.com/pseudoankit/ComposeFontAwesomeLibrary">Compose Fontawesome Library</a> :- A compose library to use fontawesome icons as simple icon
-                                                                  
-- <a href="https://github.com/pseudoankit/compose-swipe">Compose Swipe</a> :- A compose library to create a horizontal draggable view
-
-- <a href="https://github.com/pseudoankit/vistablePatternRecyclerView">Demo to use visitable pattern with recycler view</a>
 
 <h3 align="left">Medium Article Highlights</h3>
                 
@@ -43,7 +37,7 @@
                                                                                                          
 - <a href="https://medium.com/@pseudoankit/recycler-view-with-sticky-headers-multiple-layout-kotlin-view-binding-4f0056805ae9">Recycler View With Sticky Headers & Multiple Layout (View Binding)<a/>
 
-- <a href="https://medium.com/@pseudoankit/widgets-in-compose-3647b17c9b32">Create home screen widgets in compose<a/>
+- <a href="https://medium.com/@pseudoankit/widgets-in-compose-3647b17c9b32">Create widgets in compose<a/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudoankit&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
