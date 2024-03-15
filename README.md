@@ -20,10 +20,10 @@
   
 </p>
 
-🚀 Experienced Engineer specializing in Android development, with a focus on problem-solving and debugging. Proven track record of successfully scaling apps to millions of users.<br>🌱 Currently learning Kotlin/Compose Multi-Platform, performance optimizations, and CI/CD.<br>💬 Talks about  Android, Kotlin, Jetpack Compose, Clean Code, Architecture Patterns, and Coroutines.
+🚀 Experienced Android Engineer scaling apps to millions.<br>🌱 Currently learning Kotlin/Compose Multi-Platform, performance optimizations, and CI/CD.<br>💬 Talks about  Android, Kotlin, Jetpack Compose, Clean Code, Architecture Patterns, and Coroutines.
 
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white) ![KMP](https://img.shields.io/badge/KotlinMultiplatform-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![CMP](https://img.shields.io/badge/ComposeMultiplatform-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
 
 
 <h3 align="left">Open Source Libraries / Projects 👨‍💻</h3>
