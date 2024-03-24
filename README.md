@@ -19,7 +19,7 @@
   
 </p>
 
-🌱 Currently learning Kotlin/Compose Multi-Platform, performance optimizations, and CI/CD.<br>💬 Talks about  Android, Kotlin, Jetpack Compose, Clean Code, Architecture Patterns, and Coroutines.
+🚀 Android Engineer 👨🏻‍💻 <br>🌱 Currently learning Kotlin/Compose Multi-Platform, performance optimizations, and CI/CD.<br>💬 Talks about  Android, Kotlin, Jetpack Compose, Clean Code, Architecture Patterns, and Coroutines.
 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white) ![KMP](https://img.shields.io/badge/KotlinMultiplatform-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![CMP](https://img.shields.io/badge/ComposeMultiplatform-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
