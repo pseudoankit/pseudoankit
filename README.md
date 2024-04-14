@@ -13,7 +13,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pseudoankit) 
   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pseudoankit) 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pseudoankit) 
-  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/PseudoAnkit) 
   [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pseudoankit) 
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15747933) 
   
@@ -21,6 +20,7 @@
 
 🚀 Android Engineer 👨🏻‍💻 <br>🌱 Currently learning Kotlin/Compose Multi-Platform, performance optimizations, and CI/CD.<br>💬 Talks about  Android, Kotlin, Jetpack Compose, Clean Code, Architecture Patterns, and Coroutines.
 
+<h3 align="left">Tech Stack 👨‍💻</h3>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white) ![KMP](https://img.shields.io/badge/KotlinMultiplatform-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![CMP](https://img.shields.io/badge/ComposeMultiplatform-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
 
